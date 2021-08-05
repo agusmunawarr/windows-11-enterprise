@@ -1,9 +1,7 @@
 User-agent: *
 Allow: 
 
-Sitemap: https://windows-11-enterprise.herokuapp.com/host-https-www.thewindowsclub.com/sitemap_index.xml
+Sitemap: https://windows-11-enterprise.herokuapp.com/host-https-www.computerworld.com/sitemap.xml
 Sitemap: https://windows-11-enterprise.herokuapp.com/sitemap.xml
 Sitemap: https://windows-11-enterprise.herokuapp.com/sitemap1.xml
 Sitemap: https://windows-11-enterprise.herokuapp.com/sitemap2.xml
-Sitemap: https://windows-11-enterprise.herokuapp.com/sitemap3.xml
-Sitemap: https://windows-11-enterprise.herokuapp.com/sitemap4.xml

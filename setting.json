@@ -2,7 +2,7 @@
   "name-web":"Windows 11 Enterprise",
   "author":"Windows 11",
   "remove-comment-html":true,
-  "target":"https://windows-11-enterprise.herokuapp.com/windows-11-for-business-and-enterprise-new-features",
+  "target":"https://www.computerworld.com/article/3623268/what-enterprise-needs-to-know-about-windows-11.html",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.thewindowsclub.com/windows-11-for-business-and-enterprise-new-features",
+      "target":"www.computerworld.com/article/3623268/what-enterprise-needs-to-know-about-windows-11.html",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
